@@ -2,18 +2,18 @@
   "name": "tojson",
   "description": "A tool concentrating on converting csv data to JSON with customised parser supporting",
   "author": "dengzhao <dengbotian@outlook.com>",
-  "homepage": "https://github.com/dengbotian/node-csvtojson",
+  "homepage": "https://github.com/dengbotian/tojson",
   "bugs": {
-    "url": "https://github.com/dengbotian/node-csvtojson/issues"
+    "url": "https://github.com/dengbotian/tojson/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dengbotian/node-csvtojson.git"
+    "url": "https://github.com/dengbotian/tojson.git"
   },
   "contributors": [
     "dengzhao <dengzhao@outlook.com>"
   ],
-  "version": "0.3.14",
+  "version": "0.3.18",
   "keywords": [
     "csv",
     "json",
@@ -23,7 +23,7 @@
     "plugin"
   ],
   "bin": {
-    "csvtojson": "./bin/csv-to-json"
+    "tojson": "./bin/tojson"
   },
   "license": "",
   "engines": {
