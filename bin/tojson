@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 var web = require("../libs/interfaces").web
 var Converter = require("../libs/core").Converter;
 var converter = new Converter({
